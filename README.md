@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/x3vrAIp.png)
+![MasterHead](https://i.imgur.com/FNBOwtg.png)
 <h1 align="center">Hi 👋, I'm Ayyoub Ichich</h1>
 <h3 align="center">A highly motivated Software Engineer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/images/Q7QnLBYVxDWHbiLXbv80eB2xjZOUFEivu7d3">
